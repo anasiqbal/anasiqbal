@@ -1,6 +1,6 @@
 # Anas Iqbal
 
-10+ years writing gameplay systems and tools in Unity. I've shipped MMO strategy games, a multiplayer action-adventure RPG, and more casual/hyper-casual titles than I care to count. Most of that time was spent inside engine — building the things that make games actually work: event systems, state machines, quest systems, map editors, CI/CD pipelines.
+Making games since 2014 (12+ years), writing gameplay systems and tools in Unity. I've shipped 4x strategy games, a multiplayer action-adventure RPG, and more casual/hyper-casual titles than I care to count. Most of that time was spent inside engine, building the things that made those games actually work i.e. widget system, event systems, state machines, tutorial system, quest system, map editors, CI/CD pipelines.
 
 I'm currently building those same systems again in pure .NET, no Unity dependency, to document how I think about software outside of any one engine.
 
@@ -8,9 +8,10 @@ I'm currently building those same systems again in pure .NET, no Unity dependenc
 
 ---
 
-## Things I've Built
-- Mother Island - [play](https://anasiqbal.itch.io/mother-island) · [source](https://github.com/anasiqbal/mother-island)
+## Games I've Worked On
 - My Supermarket Simulator 3D - [Android](https://play.google.com/store/apps/details?id=com.playspare.supermarket.store.simulator&hl=en) · [iOS](https://apps.apple.com/us/app/my-supermarket-simulator-3d/id6511238101)
+- War of Nova - [PC](https://warofnova.com/) · [Android](https://play.google.com/store/apps/details?id=com.revolvinggames.stn) · [iOS](https://apps.apple.com/us/app/war-of-nova/id6639611514)
+- Mother Island - [play](https://anasiqbal.itch.io/mother-island) · [source](https://github.com/anasiqbal/mother-island)
 
 ---
 
