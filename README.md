@@ -4,6 +4,13 @@
 
 I'm currently building those same systems again in pure .NET, no Unity dependency, to document how I think about software outside of any one engine.
 
+💼 [LinkedIn](https://linkedin.com/in/anasiqbal)
+
+---
+
+## Things I've Built
+- 🎮 Mother Island — [play](https://anasiqbal.itch.io/mother-island) · [source](https://github.com/anasiqbal/mother-island)
+
 ---
 
 ## What I'm building
@@ -26,8 +33,3 @@ A series of standalone C# libraries, written the way I wish they'd been written 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
-
-## Links
-
-- 💼 [LinkedIn](https://linkedin.com/in/anasiqbal)
-- 🎮 Mother Island — [play](https://anasiqbal.itch.io/mother-island) · [source](https://github.com/anasiqbal/mother-island)
