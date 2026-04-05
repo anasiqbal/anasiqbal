@@ -12,7 +12,7 @@ A series of standalone C# libraries, written the way I wish they'd been written 
 
 | Repo | Status |
 |---|---|
-| `event-bus` | 🔨 In progress |
+| ![Basic Event Bus](https://github.com/anasiqbal/BasicEventBus) | 🔨 In progress |
 | `timer-scheduler` | 📋 Planned |
 | `state-machine` | 📋 Planned |
 
