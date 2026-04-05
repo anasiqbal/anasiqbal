@@ -9,7 +9,8 @@ I'm currently building those same systems again in pure .NET, no Unity dependenc
 ---
 
 ## Things I've Built
-- 🎮 Mother Island — [play](https://anasiqbal.itch.io/mother-island) · [source](https://github.com/anasiqbal/mother-island)
+- Mother Island - [play](https://anasiqbal.itch.io/mother-island) · [source](https://github.com/anasiqbal/mother-island)
+- My Supermarket Simulator 3D - [Android](https://play.google.com/store/apps/details?id=com.playspare.supermarket.store.simulator&hl=en) · [iOS](https://apps.apple.com/us/app/my-supermarket-simulator-3d/id6511238101)
 
 ---
 
