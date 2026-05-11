@@ -4,7 +4,7 @@ Making games since 2014 (12+ years), writing gameplay systems and tools in Unity
 
 I'm currently building those same systems again in pure .NET, no Unity dependency, to document how I think about software outside of any one engine.
 
-💼 [LinkedIn](https://linkedin.com/in/anasiqbal)
+💼 [LinkedIn](https://linkedin.com/in/anasiqbal55)
 
 ---
 
