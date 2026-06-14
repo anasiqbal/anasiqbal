@@ -17,11 +17,11 @@ I'm currently building those same systems again in pure .NET, no Unity dependenc
 
 ## Side Projects
 
-| Repo | Status |
-|---|---|
-| [Basic Event Bus](https://github.com/anasiqbal/BasicEventBus) | 🔨 In progress |
-| `timer-scheduler` | 📋 Planned |
-| `state-machine` | 📋 Planned |
+| Repo | What it is? |
+|---|----|
+| [Basic Event Bus](https://github.com/anasiqbal/BasicEventBus) | A strongly-typed, dependency-free event bus in pure C#. No framework, no Unity, no string keys. |
+| `timer-scheduler` | |
+| `state-machine` | |
 
 ---
 
