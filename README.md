@@ -15,9 +15,7 @@ I'm currently building those same systems again in pure .NET, no Unity dependenc
 
 ---
 
-## What I'm building
-
-A series of standalone C# libraries, written the way I wish they'd been written the first time. Each one is small, focused, and ships with tests and a design note.
+## Side Projects
 
 | Repo | Status |
 |---|---|
